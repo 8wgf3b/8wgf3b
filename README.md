@@ -1,8 +1,9 @@
 ### Hello there, I'm Rohith 👋
+[![Linkedin: Rohith](https://img.shields.io/badge/-Rohith%20Pervala-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohith-pervala/)](https://www.linkedin.com/in/rohith-pervala/)
 <a href="https://discord.gg/MSUvu9TcZU">
   <img align="left" alt="Personaldiscord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
-
+<br/> <br/>
 
 
 ### My Github stats
