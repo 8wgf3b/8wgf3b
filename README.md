@@ -4,10 +4,10 @@
   <img align="left" alt="Personaldiscord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 <br/> <br/>
-
+Passionate about automating my life using whatever new thing I learn everday.
 
 ### My Github stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8wgf3b&theme=synthwave&hide=jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8wgf3b&theme=synthwave&hide=jupyter%20Notebook,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=8wgf3b&show_icons=true&include_all_commits=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
