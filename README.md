@@ -4,7 +4,11 @@
   <img align="left" alt="Personaldiscord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 <br/> <br/>
-Passionate about automating my life using whatever new thing I learn everday.
+- 🔭 I’m currently working on [Advent of Code 2020](https://github.com/8wgf3b/letsee)
+- 🌱 I’m currently learning [Bayesian Statistics](https://en.wikipedia.org/wiki/Bayesian_statistics)
+- 💬 Ask me about Python, kdb+/q, statistics, data science, [life, universe and everything](https://en.wikipedia.org/wiki/Life,_the_Universe_and_Everything).
+- 📫 How to reach me: Check out my social media links.
+- ⚡ Fun fact: I'm a big fan of [APL](https://en.wikipedia.org/wiki/APL_syntax_and_symbols).
 
 ### My Github stats
 
